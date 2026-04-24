@@ -1,139 +1,151 @@
+```md
 <div align="center">
 
 # ✦ Terbium
 
 ### The Calculator Reimagined
 
-**Terbium is a next-generation calculator crafted to make mathematics feel premium, immersive, and visually exciting.**
-
-It replaces outdated calculator interfaces with a polished dark-mode experience built around fluid motion, clean aesthetics, and satisfying interaction design.
-
-**Most calculators solve numbers.**
-**Terbium creates an experience.**
+A next-generation calculator built with premium design, fluid motion, and modern engineering.
 
 <br>
+
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-18-111827?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-2563eb?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06b6d4?style=for-the-badge&logo=tailwindcss)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animations-black?style=for-the-badge)
+
+<br><br>
+
+**Most calculators solve numbers.**  
+**Terbium creates an experience.**
 
 </div>
 
 ---
 
-## ◈ Why Terbium Exists
+## ✨ Overview
 
-Traditional calculator apps are functional—but forgettable.
+Terbium transforms traditional calculation into something visually immersive, responsive, and enjoyable to use.
 
-They often feel:
+Instead of static buttons and outdated layouts, Terbium introduces a sleek dark-mode interface powered by fluid animations, elegant spacing, and polished interactions.
 
-* ◦ Generic
-* ◦ Static
-* ◦ Visually outdated
-* ◦ Emotionless
-* ◦ Identical to every other calculator
-
-Terbium was created to challenge that standard and prove that even the simplest tools can be beautifully designed.
+Designed for users who appreciate both performance and aesthetics.
 
 ---
 
-## ✺ Signature Experience
+## 🎯 Why Terbium Exists
 
-The moment a user opens Terbium, they enter a refined digital environment featuring:
+Most calculator apps feel:
 
-* ✦ Smooth animated backgrounds
-* ✦ Soft glassmorphism surfaces
-* ✦ Elegant dark-mode contrast
-* ✦ Precision spacing and typography
-* ✦ Motion-rich transitions
-* ✦ Minimal, distraction-free layout
+- Outdated  
+- Generic  
+- Forgettable  
+- Visually flat  
+- Identical to one another  
 
-It feels closer to a modern product launch than a standard utility app.
+Terbium was built to prove that even the most common tools can feel modern, premium, and memorable.
 
 ---
 
-## ⟡ Interaction Design
+## 🖥️ Signature Experience
 
-Every input is intentionally designed to feel responsive and rewarding.
+When users open Terbium, they enter a refined environment featuring:
+
+- Smooth animated backgrounds  
+- Clean glassmorphism surfaces  
+- Elegant dark-mode contrast  
+- Premium typography and spacing  
+- Responsive interactions  
+- Minimal distraction-free layout  
+
+It feels like a product—not just a utility.
+
+---
+
+## 🎮 Interaction Design
+
+Every input is designed to feel satisfying.
 
 ### Buttons That Feel Premium
 
-* ✦ Smooth press animations
-* ✦ Spring rebound motion
-* ✦ Hover glow states
-* ✦ Crisp tactile feedback
-* ✦ Fast response timing
+- Smooth press animations  
+- Spring rebound motion  
+- Hover glow effects  
+- Crisp tactile feedback  
+- Fast response timing  
 
-Each interaction feels engineered rather than merely functional.
-
----
-
-## ◉ Beautiful Output
-
-Results are not abruptly replaced. They transition with polish and clarity through:
-
-* ✦ Blur-to-focus reveals
-* ✦ Smooth number changes
-* ✦ Animated state transitions
-* ✦ Real-time expression feedback
-
-Even the answer feels elevated.
+Each interaction feels intentional and polished.
 
 ---
 
-## ✧ Performance First
+## 🔢 Beautiful Output
 
-Terbium is optimized for speed while maintaining a premium visual layer.
+Results transition with clarity instead of abruptly changing.
 
-* ✦ Instant calculations
-* ✦ Responsive UI updates
-* ✦ Smooth 60fps animations
-* ✦ Mobile + desktop support
-* ✦ Lightweight architecture
+- Blur-to-focus reveals  
+- Smooth number updates  
+- Animated state transitions  
+- Real-time expression feedback  
 
----
-
-## ⌘ Built to Grow
-
-Terbium begins as a calculator, but its architecture is designed for expansion.
-
-### Planned Features
-
-* ✦ Scientific mode
-* ✦ Graphing engine
-* ✦ Gesture controls
-* ✦ Theme system
-* ✦ AI math input
-* ✦ Symbolic solving
-* ✦ Offline installable app
+Even the answer feels refined.
 
 ---
 
-## ⚙ Technology Stack
+## ⚡ Performance First
 
-Built with modern tools selected for maintainability, performance, and design quality:
+Terbium is optimized for speed while preserving visual quality.
 
-* ✦ Next.js — scalable application framework
-* ✦ React — component-based UI system
-* ✦ TypeScript — robust typed development
-* ✦ Tailwind CSS — precision styling workflow
-* ✦ Framer Motion — advanced motion design
-* ✦ Zustand — lightweight state management
-* ✦ Python + FastAPI — advanced backend expansion
-* ✦ SymPy — symbolic mathematics engine
+- Instant calculations  
+- Responsive UI updates  
+- Smooth 60fps animations  
+- Mobile + desktop support  
+- Lightweight architecture  
 
 ---
 
-## ✹ Why The Name Terbium
+## 🚀 Roadmap
 
-Named after the rare earth element **Terbium**, the brand reflects:
+Terbium is built to evolve beyond a standard calculator.
 
-* ✦ Precision
-* ✦ Innovation
-* ✦ Energy
-* ✦ Modernity
-* ✦ Distinction
-
-It feels uncommon, sharp, and future-facing.
+- Scientific mode  
+- Graphing engine  
+- Gesture controls  
+- Theme system  
+- AI math input  
+- Symbolic solving  
+- Offline installable app  
 
 ---
 
-## ✦ Product Summary
+## 🛠️ Technology Stack
 
-**Terbium** is a visually advanced calculator that transforms everyday math into a premium interactive experience through clean design, fluid animation, and modern engineering.
+- **Next.js** — scalable application framework  
+- **React** — component-based UI  
+- **TypeScript** — robust typed development  
+- **Tailwind CSS** — precision styling  
+- **Framer Motion** — premium animations  
+- **Zustand** — lightweight state management  
+- **Python + FastAPI** — advanced backend expansion  
+- **SymPy** — symbolic mathematics engine  
+
+---
+
+## ⚛️ Why the Name Terbium
+
+Named after the rare earth element **Terbium**, representing:
+
+- Precision  
+- Innovation  
+- Energy  
+- Modernity  
+- Distinction  
+
+A sharp and future-facing identity.
+
+---
+
+## 📌 Product Summary
+
+**Terbium** is a visually advanced calculator that turns everyday math into a premium interactive experience through clean design, fluid animation, and modern engineering.
+```
